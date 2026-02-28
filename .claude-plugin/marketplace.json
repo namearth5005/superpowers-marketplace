@@ -1,11 +1,10 @@
 {
   "name": "superpowers-marketplace",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "namearth5005"
   },
   "metadata": {
-    "description": "Skills, workflows, and productivity tools",
+    "description": "Enhanced Superpowers: Teams integration, per-task plans, and more",
     "version": "1.0.13"
   },
   "plugins": [
@@ -13,9 +12,9 @@
       "name": "superpowers",
       "source": {
         "source": "url",
-        "url": "https://github.com/obra/superpowers.git"
+        "url": "https://github.com/namearth5005/superpowers.git"
       },
-      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
+      "description": "Enhanced core skills library: Teams integration, TDD, debugging, collaboration patterns, and proven techniques",
       "version": "4.3.1",
       "strict": true
     },
@@ -73,7 +72,7 @@
       "name": "superpowers-dev",
       "source": {
         "source": "url",
-        "url": "https://github.com/obra/superpowers.git",
+        "url": "https://github.com/namearth5005/superpowers.git",
         "ref": "dev"
       },
       "description": "DEV BRANCH: YOU MUST UNINSTALL OTHER VERSIONS OF SUPERPOWERS BEFORE INSTALLING THIS",
